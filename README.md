@@ -6,8 +6,8 @@
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- Name: Andrew
-- Location: Moscow
+- Name: Andrew  
+- Location: Moscow  
 
 ---
 
