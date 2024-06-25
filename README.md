@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="1000" height="200"/>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -10,7 +10,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>  
@@ -22,7 +22,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
   
 ---
 
-### :fire: My Stats :  
+### My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreyAndreevichKovalev&theme=default)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAndreevichKovalev&layout=compact&theme=default)](https://github.com/faithdev21/github-readme-stats)
