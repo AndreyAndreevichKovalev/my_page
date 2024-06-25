@@ -12,11 +12,11 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### Languages and Tools :
 
-Python 
-SQLite
-Linux
-Git
-PyCharm
-Bash
+- Python  
+- SQLite  
+- Linux  
+- Git  
+- PyCharm  
+- Bash  
   
 ---
