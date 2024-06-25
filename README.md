@@ -6,7 +6,8 @@
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :globe_with_meridians: Moscow
+- Name: Andrew
+- Location: Moscow
 
 ---
 
